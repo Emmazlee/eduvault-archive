@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-833-eduvault-implement-role-scoped-maintainer",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-833-eduvault-implement-role-scoped-maintainer": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-833-eduvault-implement-role-scoped-maintainer",
+    "origin"
+  ]
+}
